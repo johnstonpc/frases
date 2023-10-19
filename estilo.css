@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    width: 99%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.portugues{
+    color: rgb(17, 202, 17);
+}
+
+.ingles{
+    color: red;
+    font-size: 25px;
+}
+.conteudo{
+    width: 320px;
+    overflow: hidden;
+    text-align: center;
+    border: solid 3px blueviolet;
+    height: 320px;
+    border-radius: 10px;
+}
+
+.controles{
+
+    position: relative;
+    top: 23%;
+}
+
+.contando{
+    color: blueviolet;
+    position: relative;
+    top: 25%;
+    
+}
+.pi{
+    height: 150px;
+    overflow: hidden;
+    margin-top: 10%;
+}
