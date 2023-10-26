@@ -318,7 +318,7 @@ function lista() {
 
 
 function iniciar() {
-    intervalo = setInterval(lista, 1800)
+    intervalo = setInterval(lista, 2100)
     document.getElementById('play').style.display='none'
     document.getElementById('stop').style.display=''
     document.getElementById('play').addEventListener('click',verificar)
